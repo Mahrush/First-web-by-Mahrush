@@ -1,0 +1,45 @@
+body{
+	
+	background-image: url(BG.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%100%;
+	background-attachment: fixed;
+}
+h1{
+	color: skyblue;
+	background: darkblue;
+	font-family: cursive;
+	text-align: center;
+	border: 10px solid royalblue;
+	border-radius: 500px;
+} 
+p{
+	color: yellow;
+	background: red;
+	text-align: justify;
+	font-family: monospace;
+}
+img{
+	border: 10px solid orangered;
+}
+.point{
+	color: cadetblue;
+	background: blueviolet;
+	text-align: justify;
+	font-family: monospace;
+	margin-right: 700px;
+}
+ol{
+	color: cadetblue;
+	background: blueviolet;
+	text-align: justify;
+	font-family: monospace;
+	margin-right: 900px;
+}
+h2{
+	color: darkred;
+	background: yellow;
+	text-align: center;
+	font-family: cursive;
+	border-radius: 500px;
+}
